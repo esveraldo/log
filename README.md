@@ -2,6 +2,6 @@
 
 Classe simples para gravação de ações de usuários
 
-#USO
+# USO
 
 Chame o método onde deseja gravar a ação do usuário
